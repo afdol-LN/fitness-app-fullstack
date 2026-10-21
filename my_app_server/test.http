@@ -1,0 +1,15 @@
+GET http://localhost:3000/api/users HTTP/1.1
+Content-Type: application/json
+
+{
+
+}
+
+###
+POST http://localhost:3000/api/authen/authen_request HTTP/1.1
+Content-Type: application/json
+
+{
+    "authen_request": "0f8c7eab0e7f4ca3553999f860d25f92d75901d78325b6088c02d13662f44bb9"
+}
+

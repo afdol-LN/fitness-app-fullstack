@@ -1,0 +1,14 @@
+# Server
+my_app_server/node_modules/
+my_app_server/uploads/
+my_app_server/config/db.config.js
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# Other workspace projects (not part of this repo)
+flutter_practice/
+my_app_mvvm/
+workshop-flutter/
+.agents/
